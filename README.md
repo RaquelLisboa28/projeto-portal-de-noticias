@@ -23,8 +23,8 @@ O projeto consiste em uma página estática que simula um portal de notícias, c
    git clone https://github.com/RaquelLisboa28/projeto-portal-de-noticias.git
 Navegue até a pasta do projeto:
 cd projeto-portal-de-noticias
-Abra o arquivo index.html em seu navegador para explorar o portal de notícias.
+Abra o arquivo index.html em seu navegador para explorar o portal de notícias
 
 
 
-   thub.com/RaquelLisboa28/projeto-portal-de-noticias.git
+
